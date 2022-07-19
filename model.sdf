@@ -18,14 +18,14 @@
       <collision name="collision">
         <geometry>
 	  <mesh>
-		  <uri>model://tsudanuma2-3/tsudanuma2-3.dae</uri>	
+		  <uri>model://tsudanuma2-3/tsudanuma2-3_v3.0.dae</uri>	
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-		  <uri>model://tsudanuma2-3/tsudanuma2-3.dae</uri>
+		  <uri>model://tsudanuma2-3/tsudanuma2-3_v3.0.dae</uri>
           </mesh>
   	</geometry>
 	<material>
